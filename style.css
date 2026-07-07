@@ -1291,7 +1291,15 @@ transform:translateY(0px);
     margin-bottom:35px;
 
 }
+.resume-icon{
+    font-size:80px;
+    color:#ff7a00;
+    margin-bottom:25px;
+}
 
+.resume-box .btn{
+    margin-top:20px;
+}
 /* ==================================================
    CONTACT
 ================================================== */
